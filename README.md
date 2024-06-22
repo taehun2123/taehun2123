@@ -1,9 +1,6 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Welcome, i'm Taehun Kim 👋
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
-
+#### I'll want to be Web Programmer !!
 
 🛠️ Stacks
 
