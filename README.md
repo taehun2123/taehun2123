@@ -33,7 +33,7 @@
   [![Velog Badge](https://img.shields.io/badge/Custom_Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://taehun2123.github.io/blog/)](https://taehun2123.github.io/blog/)
 
 
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Platinum Level(Soon). 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfx100)](https://solved.ac/asdfx100/)  
 <img src="http://mazandi.herokuapp.com/api?handle=asdfx100&theme=warm"/>
