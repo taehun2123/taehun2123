@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=WELCOME_TO_Taehun_GIT_WORLD&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=WELCOME&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 # Welcome, I'm Taehun Kim 👋
 
