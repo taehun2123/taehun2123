@@ -28,8 +28,6 @@
 🏅 Algorithm Platinum Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfx100)](https://solved.ac/asdfx100/)  
-<img src="http://mazandi.herokuapp.com/api?handle=asdfx100&theme=warm"/>
-
 
 🏆 Awards
 |Competition|Prize|Date|
