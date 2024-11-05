@@ -34,6 +34,7 @@
 |------|---|---|
 |PEBSYS's scholarship|3rd Scholarship|July 21, 2023|
 |PEBSYS's scholarship|4th Scholarship|February 23, 2024|
+|UIPA's AI TechDay Hackathon|Excellence Award|November 6, 2024|
 
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
