@@ -2,11 +2,11 @@
 
 # 누추한 제 깃허브에 구경하러 와주셔서 감사합니다.. 👋
 
-## 꾸준하게 계속 하면 뭐라도 되지 않을까?
-- 뭐라도 하지 않으면 불안증이 생기는 병이 있습니다.
+## 꾸준하게 이것 저것 해보면 뭐라도 되지 않을까?
+- 아무것도 하지 않으면 불안증이 생기는 병이 있습니다.
 - 도전하는 것이 두렵지 않습니다.
 - 실패하는 것이 두렵지 않습니다.
-- 시켜만 주세요. 어떻게든 해내겠습니다.
+- 어떻게든 해내겠습니다.
 
 #### I'll want to be Web Programmer !!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaehun2123%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
