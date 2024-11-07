@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=WELCOME&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
-# Welcome, I'm Taehun Kim 👋
+# 와주셔서 감사합니다. 엉덩이가 무거운 김태훈입니다. 👋
+
+## 꾸준하게 뭐라도 하면 뭐라도 되지 않을까?
+- 뭐라도 하지 않으면 불안증이 생기는 병이 있습니다.
+- 도전하는 것이 두렵지 않습니다
+- 실패하는 것이 두렵지 않습니다
+- 시켜만 주세요. 어떻게든 하겠습니다
 
 #### I'll want to be Web Programmer !!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaehun2123%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
