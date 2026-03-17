@@ -29,11 +29,17 @@
   [![Velog Badge](https://img.shields.io/badge/Custom_Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://taehun2123.github.io/blog/)](https://taehun2123.github.io/blog/)
 
 
-🏅 Algorithm Platinum Level. 
+🏅 Algorithm Platinum(Season 4) Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfx100)](https://solved.ac/asdfx100/)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smasdfx100)](https://solved.ac/smasdfx100/)  
 
+🏅 Certification. 
+|Name|Date|
+|------|---|
+|ADsP|July 21, 2023|
+|ISTQB|July 12, 2023|
+|SQLD|June 23, 2024|
 
 🏆 Awards
 |Competition|Prize|Date|
