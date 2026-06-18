@@ -41,7 +41,7 @@
 |UIPA's AI TechDay Hackathon|Excellence Award|November 6, 2024|
 |UC's Normal Capstone Design|The Second Prize|November 8, 2024|
 |UC's SoftWare Capstone Design|The Second Prize|November 8, 2024|
-|2025 Cansat Competition|32th|June 21, 2025|
+|2025 International Cansat Competition In Virginia|32th|June 21, 2025|
 |Coss 경진대회(CoShow)|차세대통신단장상|November 21, 2025|
 
 
