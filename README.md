@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=WELCOME&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
-# 누추한 제 깃허브에 구경하러 와주셔서 감사합니다.. 👋
+# 누추한 제 깃허브에 와주셔서 감사합니다.. 👋
 
 #### I'll want to be Web Programmer !!
 🛠️ Stacks
