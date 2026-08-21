@@ -39,7 +39,7 @@
 |UC's SoftWare Capstone Design|The Second Prize|November 8, 2024|
 |2025 International Cansat Competition In Virginia|32th|June 21, 2025|
 |Coss 경진대회(CoShow)|차세대통신단장상|November 21, 2025|
-
+|PNU AWS Cloud AI PBL Project|최우수상|July 20, 2026|
 
 
 
