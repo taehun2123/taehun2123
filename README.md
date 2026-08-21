@@ -12,8 +12,8 @@
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/School_Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taehun@pusan.ac.kr)](taehun@pusan.ac.kr)
-  [![Velog Badge](https://img.shields.io/badge/Custom_Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://taehun2123.github.io/blog/)](https://taehun2123.github.io/blog/)
+[![Gmail Badge](https://img.shields.io/badge/School_Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&mailto:taehun@pusan.ac.kr)](taehun@pusan.ac.kr)
+[![Velog Badge](https://img.shields.io/badge/Custom_Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://taehun2123.github.io/blog/)](https://taehun2123.github.io/blog/)
 
 
 🏅 Algorithm Platinum(Season 4) Level. 
