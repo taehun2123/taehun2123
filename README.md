@@ -31,12 +31,12 @@
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|PEBSYS's scholarship|3rd Scholarship|July 21, 2023|
-|PEBSYS's scholarship|4th Scholarship|February 23, 2024|
+|PEBSYS's scholarship|3기 장학금 수여|July 21, 2023|
+|PEBSYS's scholarship|4기 장학금 수여|February 23, 2024|
 |(사)창업보육협회 창업창직경진대회|우수상|October 10, 2024|
-|UIPA's AI TechDay Hackathon|Excellence Award|November 6, 2024|
-|UC's Normal Capstone Design|The Second Prize|November 8, 2024|
-|UC's SoftWare Capstone Design|The Second Prize|November 8, 2024|
+|UIPA's AI TechDay Hackathon|우수상|November 6, 2024|
+|UC's Normal Capstone Design|은상|November 8, 2024|
+|UC's SoftWare Capstone Design|은상|November 8, 2024|
 |2025 International Cansat Competition In Virginia|32th|June 21, 2025|
 |Coss 경진대회(CoShow)|차세대통신단장상|November 21, 2025|
 |PNU AWS Cloud AI PBL Project|최우수상|July 20, 2026|
