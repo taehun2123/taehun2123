@@ -19,7 +19,6 @@
 🏅 Algorithm Platinum(Season 4) Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfx100)](https://solved.ac/asdfx100/)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smasdfx100)](https://solved.ac/smasdfx100/)  
 
 🏅 Certification. 
 |Name|Date|
